@@ -3,8 +3,8 @@
 ## Description of Work Day Scheduler
 
 * Scheduler/Planner of a typical work day of 9AM - 5PM
-* Typing in a comment/task/activity in the text area hour of your choice.
-* Selecting the save icon on the right and it will store the data.
+* Type in a comment/task/activity in the text area hour of your choice.
+* Select the save icon on the right and it will store the data.
 * Refreshing/closing the page will still retain the data in the textarea.
 
 ## Built With
