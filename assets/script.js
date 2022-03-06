@@ -51,11 +51,3 @@ $(".saveBtn").on("click", function() {
     localStorage.setItem(descriptionTextAreaId, descriptionInput.value);
 });
 });
-
-
-
-
-
-
-
-
